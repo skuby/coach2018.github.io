@@ -1,7 +1,7 @@
 {
-	"name": "New project",
-	"short_name": "New project",
-	"description": "",
+	"name": "Coach2019",
+	"short_name": "Coach2019",
+	"description": "Augmented Reality",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
